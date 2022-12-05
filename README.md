@@ -1,5 +1,5 @@
 # Fullstack-разработчик Николай #
-Hi, i am Nikolay. I am junior fullstack developer,that create some websites that are fast, easy to use, and built with best practices.
+Hi, i am Nikolay. I am junior fullstack developer, create some websites that are written below
 <p align='center'>
   Мой E-mail: <a href='mailto:gratchevnikolay@gmail.com'>gratchevnikolay@gmail.com</a>
 </p>
