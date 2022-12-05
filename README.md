@@ -1,5 +1,5 @@
 # Fullstack-разработчик Николай #
-Hi, i am Nikolay. I am junior fullstack разработчик
+Hi, i am Nikolay. I am junior fullstack developer
 <p align='center'>
   Мой E-mail: <a href='mailto:gratchevnikolay@gmail.com'>gratchevnikolay@gmail.com</a>
 </p>
