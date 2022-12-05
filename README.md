@@ -1,4 +1,8 @@
-### Hi there 👋
+# Здравствуйте, меня зовут Николай 👋
+Я начинающий Fullstack-разработчик
+<p align='center'>
+  Мой E-mail: <a href='mailto:gratchevnikolay@gmail.com'>gratchevnikolay@gmail.com</a>
+</p>
 
 <!--
 **nikprog1/nikprog1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
