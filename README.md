@@ -1,5 +1,4 @@
-# Здравствуйте, меня зовут Николай 👋
-Я начинающий Fullstack-разработчик
+# Начинающий Fullstack-разработчик Николай
 <p align='center'>
   Мой E-mail: <a href='mailto:gratchevnikolay@gmail.com'>gratchevnikolay@gmail.com</a>
 </p>
